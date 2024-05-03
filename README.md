@@ -1,2 +1,2 @@
-# Rendihidayat
+# Singleton
 untuk memenuhi tugas crued
